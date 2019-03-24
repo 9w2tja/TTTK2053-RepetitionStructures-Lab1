@@ -1,4 +1,5 @@
 # TTTK2053 - Repetition Structures (Lab1)
+Find average 10 marks of student
 - For Loop
 - While
 - Do While
